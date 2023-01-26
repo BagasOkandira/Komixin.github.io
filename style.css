@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(194, 194, 194); /* change this to your desired color */
+  }
+  
+
+.navbar {
+    background-color: purple; /* change this to your desired color */
+    padding: 15px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* this will add a subtle shadow to the navbar */
+  }
+  
+  .navbar-brand {
+    font-size: 2em; /* increase the font size of the website title */
+    font-weight: bold; /* make the title bold */
+    color: white; /* change the color of the title */
+  }
+  
+  .nav-link {
+    font-size: 1.2em; /* increase the font size of the links */
+    color: white; /* change the color of the links */
+    margin-right: 20px; /* add some space between the links */
+  }
+  
+  .nav-link:hover {
+    background-color: rgb(138, 89, 127); /* change the background color of the links on hover */
+    color: black; /* change the text color of the links on hover */
+    text-decoration: none; /* remove the underline on hover */
+  }
+
+  .nav{
+    background-color: rgb(182, 182, 182);
+  }
+  .nav-link{
+    color: rgb(255, 255, 255);
+  }
+
+  .nav-link:click {
+    color: rgb(138, 89, 127)
+  }
+
+  .btn {
+    background-color : purple
+  }
+
+  .btn:hover {
+    background-color: rgb(138, 89, 127) ;
+  }
+
+  .page-link {
+    background-color: purple;
+    color : white
+  }
+
+  .page-link:hover {
+    background-color: rgb(138, 89, 127) ;
+  }
